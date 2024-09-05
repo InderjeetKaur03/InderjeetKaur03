@@ -7,9 +7,9 @@ Software Engineer
 With 10 years of experience in software development, DevOps, and cloud technologies, I hold AWS certifications and a Master's in Computer Science. I'm passionate about learning new technologies and seeking growth opportunities.
 
 * 🌍  I'm based in Toronto
-* 🧠  I'm learning Data Structure and Algorithms
+* 🧠  I have recently completed a DevOps BootCamp. I'm currently revisiting Data Structure and Algorithms
 * 🤝  I'm open to collaborating on Cloud Technologies
-* ⚡  I love swimming and its my way of relaxing
+* ⚡  I love swimming and it's my way of relaxing
 
 ### Skills
 
